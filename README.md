@@ -1,3 +1,3 @@
 # STRANGER-THINGS-QUIZ
 
-https://replit.com/@DevendraSingh10/Personal-Quiz?embed=1&output=1#index.js
+https://replit.com/@DevendraSingh10/Stranger-things-quiz?embed=1&output=1#index.js
