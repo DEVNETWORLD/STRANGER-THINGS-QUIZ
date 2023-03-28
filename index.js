@@ -25,7 +25,7 @@ function play(question, options, answer) {
     log(chalk.red("Current Score : " + score));
   }
 }
-const quizList = [{
+const quizList = [{   
   question:
     "1: Who played character Eleven in Netflix's Stranger things?",
   options: ["Millie Bobby Brown", "Sadie Sink", "NATALIA DYER", "MAYA HAWKE"],
